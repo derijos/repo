@@ -1,2 +1,2 @@
   
-web: sh setup.sh && streamlit run summarizer.py
+web: sh setup.sh && streamlit run AmazonSL (2).py
